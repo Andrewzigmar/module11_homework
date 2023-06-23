@@ -1,0 +1,19 @@
+{
+  "name": "modul11_homwork",
+  "version": "1.0.0",
+  "description": "jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "andrew",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "jest": "^29.5.0"
+  }
+}
